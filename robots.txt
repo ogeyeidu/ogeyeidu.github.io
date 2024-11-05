@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ogeyeidu.github.io/cTo/sitemap_index.txt
+Sitemap: https://ogeyeidu.github.io/mVe/sitemap_index.txt
+Sitemap: https://ogeyeidu.github.io/mgV/sitemap_index.txt
+Sitemap: https://ogeyeidu.github.io/sur/sitemap_index.txt
